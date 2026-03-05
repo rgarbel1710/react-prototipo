@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import ButtonComponent from "./components/ButtonComponent";
 import HeaderComponent from "./components/HeaderComponent";
-import Login from "./components/login";
+import Login from "./components/Login";
 import MovieList from "./components/MovieList";
 
 function App() {
